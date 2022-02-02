@@ -3,7 +3,7 @@ Proyecto Helm
 # índice
 ![img](https://github.com/abarcajoel/Proyecto-Helm-Joel/blob/main/img/helm.png)
 #
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 1. [Introducción]()
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 1. [Introducción](https://github.com/abarcajoel/Proyecto-Helm-Joel/blob/main/md/intro.md)
 
 ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 2. [¿Qué es Helm? ¿Qué son los charts?]()
 
