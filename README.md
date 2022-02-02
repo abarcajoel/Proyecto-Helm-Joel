@@ -13,7 +13,7 @@ Proyecto Helm
 
 ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 5. [Listar]() 
 
-![#c5f015](Ahttps://via.placeholder.com/15/c5f015/000000?text=+) 6. [Añadir repositorios]()
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 6. [Añadir repositorios]()
 
 ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 7. [Añadir]()
 
