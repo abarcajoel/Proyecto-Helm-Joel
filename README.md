@@ -3,7 +3,7 @@ Proyecto Helm
 # índice
 ![img]()
 #
-![#c5f015](Introducción) 1. [Introducción]()
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 1. [Introducción]()
 
 ![#c5f015](¿Qué es Helm? ¿Qué son los charts?) 2. [¿Qué es Helm? ¿Qué son los charts?]()
 
