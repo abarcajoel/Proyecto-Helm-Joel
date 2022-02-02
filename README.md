@@ -15,23 +15,14 @@ Proyecto Helm
 ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 3. [Instalación](https://github.com/abarcajoel/Proyecto-Helm-Joel/blob/main/md/instalacion.md)
 
 ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 4. [Trabajando repositorios]()
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 5. [Instalación wordpress]()
 
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 5. [Listar]() 
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 6. [Parametros]()
 
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 6. [Añadir repositorios]()
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 7. [Comprobaciones]()
 
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 7. [Añadir]()
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 8. [Acceso a la aplicación]()
 
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 8. [Buscar]()
-
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 9. [Instalación wordpress]()
-
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 10. [Parametros]()
-
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 11. [Comprobaciones]()
-
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 12. [Acceso a la aplicación]()
-
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 13. [Reference]()
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 9. [Reference]()
 
 
