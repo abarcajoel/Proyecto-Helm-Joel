@@ -4,9 +4,10 @@
 # Instalación.
 ## Importante.
 ### Parámetros importantes  a tener en cuenta:
-`--set wordpressUsername=admin`
-  `--set wordpressPassword=password `
-  `--set mariadb.auth.rootPassword=secretpassword`
+## Se pasaran desde archivo yaml
+`set wordpressUsername=`
+  `--set wordpressPassword= `
+  `--set mariadb.auth.rootPassword=`
 ## Desde terminal instalamos:
 `helm install mi_wordpress bitnami/wordpress 
 --set wordpressUsername=usuario 
