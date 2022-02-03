@@ -22,9 +22,10 @@ Proyecto Helm
 
 ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) [Acceso a la aplicación]()
 
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) [Reference]
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) ## Reference
 ##
 [WordPress](https://github.com/bitnami/charts/tree/master/bitnami/wordpress/#installing-the-chart)
+#
 [www.digitalocean.com](https://www.digitalocean.com/community/tutorials/how-to-set-up-wordpress-with-mysql-on-kubernetes-using-helm-es)
 
 
