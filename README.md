@@ -12,18 +12,18 @@ Proyecto Helm
 
 
 
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 3. [Instalación](https://github.com/abarcajoel/Proyecto-Helm-Joel/blob/main/md/instalacion.md)
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) [Instalación](https://github.com/abarcajoel/Proyecto-Helm-Joel/blob/main/md/instalacion.md)
 
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 4. [Trabajando repositorios]()
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)[Trabajando repositorios]()
 
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 5. [Instalación wordpress]()
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)[Instalación wordpress]()
 
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 6. [Parametros]()
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)[Parametros]()
 
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 7. [Comprobaciones]()
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)[Comprobaciones]()
 
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 8. [Acceso a la aplicación]()
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)[Acceso a la aplicación]()
 
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 9. [Reference]()
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)[Reference]()
 
 
