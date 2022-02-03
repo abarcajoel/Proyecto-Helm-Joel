@@ -10,7 +10,7 @@ Proyecto Helm
 # ¿Que es helm?
 ## Helm es una herramienta para gestionar aplicaciones de Kubernetes. Helm te ayuda a timonear Kubernetes usando cartas de navegación, que en inglés se conocen como Helm Charts. 
 
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 2. [¿Qué es Helm? ¿Qué son los charts?]()
+
 
 ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 3. [Instalación](https://github.com/abarcajoel/Proyecto-Helm-Joel/blob/main/md/instalacion.md)
 
