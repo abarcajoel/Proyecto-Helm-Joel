@@ -1,14 +1,15 @@
- # Trabajando con los repositorios
- ## Listamos los repositorios
+ # Trabajando con los repositorios.
+ ## Podemos utilizar los siguientes comandos para trabajar con helm.
+ ## Listamos los repositorios.
  `helm repo list`
- ## Añadimos repositorio
+ ## Añadimos repositorio.
  `helm repo add`
- ### Ejemplo
+ ### Ejemplo:
  `helm repo add "stable" "https://charts.helm.sh/stable" --force-update` 
- ## Añadimos repositorio bitnami importante para trabajar con helm
+ ## Añadimos repositorio bitnami importante para trabajar con helm.
  `helm repo add bitnami https://charts.bitnami.com/bitnami`
- ## Buscamos repositorio por nombre
- ### Ejemplo un chart como nginx 
+ ## Buscamos repositorio por nombre.
+ ### Ejemplo un chart como nginx: 
  `helm search repo nginx`
  ## Tambien podemos bsucar desde su pagina:
  [Artifact Hub](https://artifacthub.io/)
