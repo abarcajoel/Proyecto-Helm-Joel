@@ -8,9 +8,9 @@
   `--set wordpressPassword=password `
   `--set mariadb.auth.rootPassword=secretpassword`
 ## Desde terminal instalamos:
-`helm install mi_wordpress bitnami/wordpress \
---set wordpressUsername=usuario \
-  --set wordpressPassword=password \
+`helm install mi_wordpress bitnami/wordpress 
+--set wordpressUsername=usuario 
+  --set wordpressPassword=password 
   --set mariadb.auth.rootPassword=secretpassword` 
 ### (my-release puede ser cambiado por un nombre que le queráis dar vuestro servicio)
 
