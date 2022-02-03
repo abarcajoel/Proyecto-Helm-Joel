@@ -2,7 +2,7 @@
 ![img](https://github.com/abarcajoel/Proyecto-Helm-Joel/blob/main/img/wo_helm.jpg)
 
 # Instalación.
-## Impotante.
+## Importante.
 ### Parámetros importantes  a tener en cuenta:
 `wordpressUsername`
 `wordpressPassword`
