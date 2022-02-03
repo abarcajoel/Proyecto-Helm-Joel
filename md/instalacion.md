@@ -11,4 +11,5 @@
  ## Ejecutamos el archivo
 
  `./get_helm.sh`
- ## Buscar: `https://helm.sh/docs/intro/install/`
+ ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) [Buscamos](https://helm.sh/docs/intro/install/)
+ 
