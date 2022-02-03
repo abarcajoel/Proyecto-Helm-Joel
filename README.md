@@ -16,7 +16,7 @@ Proyecto Helm
 
 ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) [Trabajando repositorios](https://github.com/abarcajoel/Proyecto-Helm-Joel/blob/main/md/Trabajar.md)
 
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) [Instalación wordpress]()
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) [Instalación wordpress](https://github.com/abarcajoel/Proyecto-Helm-Joel/blob/main/md/insta_wordpress.md)
 
 ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) [Parametros]()
 
