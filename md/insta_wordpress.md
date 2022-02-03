@@ -7,5 +7,6 @@
 `wordpressUsername`
 `wordpressPassword`
 ## Desde terminal instalamos:
-`helm install my-release bitnami/wordpress` ### (my-release puede ser cambiado por un nombre que le queráis dar vuestro servicio)
+`helm install my-release bitnami/wordpress` 
+### (my-release puede ser cambiado por un nombre que le queráis dar vuestro servicio)
 
