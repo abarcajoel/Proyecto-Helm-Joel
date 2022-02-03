@@ -4,10 +4,14 @@
 # Instalación.
 ## Importante.
 ### Parámetros importantes  a tener en cuenta:
-`wordpressUsername`
-`wordpressPassword`
+`--set wordpressUsername=admin`
+  `--set wordpressPassword=password `
+  `--set mariadb.auth.rootPassword=secretpassword`
 ## Desde terminal instalamos:
-`helm install my-release bitnami/wordpress` 
+`helm install mi_wordpress bitnami/wordpress \
+--set wordpressUsername=usuario \
+  --set wordpressPassword=password \
+  --set mariadb.auth.rootPassword=secretpassword` 
 ### (my-release puede ser cambiado por un nombre que le queráis dar vuestro servicio)
 
 # Pasos para instalar:
@@ -23,4 +27,4 @@
 
 
 ### ver:
-[Instalación: ](https://www.digitalocean.com/community/tutorials/how-to-set-up-wordpress-with-mysql-on-kubernetes-using-helm-es)
+[Instalación ](https://www.digitalocean.com/community/tutorials/how-to-set-up-wordpress-with-mysql-on-kubernetes-using-helm-es)
