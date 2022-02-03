@@ -17,7 +17,7 @@
 # Pasos para instalar:
 ## Parametros importantes
 ## Descargar los repositorios helm, bitnami 
-## Tener un gestor de base de datos en nuestro caso mysql
+## Tener un gestor de base de datos en nuestro caso mysql y mariadb
 ## Instalación y configuracion de mysql.
 ## Creamos la base de datos.
 ## Creamos el usuario para la base de datos.
