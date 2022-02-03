@@ -11,6 +11,7 @@
 ### (my-release puede ser cambiado por un nombre que le queráis dar vuestro servicio)
 
 # Pasos para instalar:
+## Parametros importantes
 ## Descargar los repositorios helm, bitnami 
 ## Tener un gestor de base de datos en nuestro caso mysql
 ## Instalación y configuracion de mysql.
