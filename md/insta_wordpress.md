@@ -1,2 +1,2 @@
  
-![img](https://github.com/abarcajoel/Proyecto-Helm-Joel/blob/main/img/wordpress.jpg) ![img]()
+![img](https://github.com/abarcajoel/Proyecto-Helm-Joel/blob/main/img/wo_helm.jpg)
