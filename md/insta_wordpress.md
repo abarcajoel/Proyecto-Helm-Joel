@@ -22,4 +22,4 @@
 
 
 ### ver:
-![Instalación: ](https://www.digitalocean.com/community/tutorials/how-to-set-up-wordpress-with-mysql-on-kubernetes-using-helm-es)
+[Instalación: ](https://www.digitalocean.com/community/tutorials/how-to-set-up-wordpress-with-mysql-on-kubernetes-using-helm-es)
