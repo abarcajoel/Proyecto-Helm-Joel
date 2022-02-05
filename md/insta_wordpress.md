@@ -13,7 +13,7 @@
 --set wordpressUsername=usuario 
   --set wordpressPassword=password 
   --set mariadb.auth.rootPassword=secretpassword --set service.type=NodePort` 
-### (my-release puede ser cambiado por un nombre que le queráis dar vuestro servicio)
+### (mi-wordpress puede ser cambiado por un nombre que le queráis dar vuestro blog)
 ## Una vez ejecutado el comando anterior ya tendremos funcionando nuestro wordpress junto con la base de datos.
 ## Pod y deployment
 ![img](https://github.com/abarcajoel/Proyecto-Helm-Joel/blob/main/img/pod_w_m.png)
