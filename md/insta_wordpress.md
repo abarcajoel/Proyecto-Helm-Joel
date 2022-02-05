@@ -9,20 +9,23 @@
   `--set wordpressPassword= `
   `--set mariadb.auth.rootPassword=`
 ## Desde terminal instalamos:
-`helm install mi_wordpress bitnami/wordpress 
+`helm install mi-wordpress bitnami/wordpress 
 --set wordpressUsername=usuario 
   --set wordpressPassword=password 
   --set mariadb.auth.rootPassword=secretpassword` 
 ### (my-release puede ser cambiado por un nombre que le queráis dar vuestro servicio)
+## Una vez ejecutado el comando anterior ya tendremos funcionando nuestro wordpress junto con la base de datos.
+## Pod y deployment
+![img]()
+## PVC, PV
+![img]()
+## CM,SECRETS
+![img]()
 
-# Pasos para instalar:
-## Parametros importantes
-## Descargar los repositorios helm, bitnami 
-## Tener un gestor de base de datos en nuestro caso mysql y mariadb
-## Instalación y configuracion de mysql.
-## Creamos la base de datos.
-## Creamos el usuario para la base de datos.
-## Asignamos privilegios y actualizamos.
+
+
+
+
 
 
 
