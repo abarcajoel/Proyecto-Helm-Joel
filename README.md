@@ -20,6 +20,7 @@ Proyecto Helm
 ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) [Comprobaciones](https://github.com/abarcajoel/Proyecto-Helm-Joel/blob/main/md/comprobar.md)
 
 ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) [Acceso a la aplicación](https://github.com/abarcajoel/Proyecto-Helm-Joel/blob/main/md/acceso.md)
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) [WordPress](https://github.com/abarcajoel/Proyecto-Helm-Joel/blob/main/md/final)
 ## Reference
 ##
 [WordPress](https://github.com/bitnami/charts/tree/master/bitnami/wordpress/#installing-the-chart)
