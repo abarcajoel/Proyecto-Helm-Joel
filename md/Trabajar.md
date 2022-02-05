@@ -11,6 +11,6 @@
  ## Buscamos repositorio por nombre.
  ### Ejemplo un chart como nginx: 
  `helm search repo nginx`
- ## Tambien podemos bsucar desde su pagina:
+ ## Tambíen podemos bsucar desde su página:
  [Artifact Hub](https://artifacthub.io/)
  
