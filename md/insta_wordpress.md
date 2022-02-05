@@ -4,7 +4,6 @@
 # Instalación.
 ## Importante.
 ### Parámetros importantes  a tener en cuenta:
-## Se pasaran desde archivo yaml
 `set wordpressUsername=`
   `--set wordpressPassword= `
   `--set mariadb.auth.rootPassword=`
