@@ -25,6 +25,8 @@
 ## Importante:
 ## Para entrar desde el exterior realizamos los siguiente pasos:
 ![img](https://github.com/abarcajoel/Proyecto-Helm-Joel/blob/main/img/nodeport.png)
+## Tambien la contraseña.
+![img](https://github.com/abarcajoel/Proyecto-Helm-Joel/blob/main/img/password.png)
 
 
 
