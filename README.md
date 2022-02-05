@@ -8,8 +8,7 @@ Proyecto Helm
 ## En este proyecto realizaremos la instalación de Helm de igual forma provaremos a lanzar una aplicaciòn para comprobar su funcionamiento. 
 
 # ¿Que es helm?
-## Helm es una herramienta para gestionar aplicaciones de Kubernetes. Helm es un manejador de paquetes para Kubernetes.
-## Ter permite buscar, modificar en instalar paquetes completos.
+## Helm es una herramienta para gestionar aplicaciones de Kubernetes. Helm es un manejador de paquetes para Kubernetes. Ter permite buscar, modificar en instalar paquetes completos.
 
 
 ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) [Instalación](https://github.com/abarcajoel/Proyecto-Helm-Joel/blob/main/md/instalacion.md)
