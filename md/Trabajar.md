@@ -11,6 +11,9 @@
  ## Buscamos repositorio por nombre.
  ### Ejemplo un chart como nginx: 
  `helm search repo nginx`
+ ![img](https://github.com/abarcajoel/Proyecto-Helm-Joel/blob/main/img/busqueda_nginx.png)
+ `helm search repo mysql`
+ ![img](https://github.com/abarcajoel/Proyecto-Helm-Joel/blob/main/img/busqueda_mysql.png)
  ## Tambíen podemos bsucar desde su página:
  [Artifact Hub](https://artifacthub.io/)
  
