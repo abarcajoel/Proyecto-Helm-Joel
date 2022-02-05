@@ -16,11 +16,11 @@
 ### (my-release puede ser cambiado por un nombre que le queráis dar vuestro servicio)
 ## Una vez ejecutado el comando anterior ya tendremos funcionando nuestro wordpress junto con la base de datos.
 ## Pod y deployment
-![img]()
+![img](https://github.com/abarcajoel/Proyecto-Helm-Joel/blob/main/img/pod_w_m.png)
 ## PVC, PV
-![img]()
+![img](https://github.com/abarcajoel/Proyecto-Helm-Joel/blob/main/img/pvc_wordpress.png)
 ## CM,SECRETS
-![img]()
+![img](https://github.com/abarcajoel/Proyecto-Helm-Joel/blob/main/img/cm_secret.png)
 
 
 
