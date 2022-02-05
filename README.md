@@ -17,7 +17,7 @@ Proyecto Helm
 
 ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) [Instalación wordpress](https://github.com/abarcajoel/Proyecto-Helm-Joel/blob/main/md/insta_wordpress.md)
 
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) [Comprobaciones]()
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) [Comprobaciones](https://github.com/abarcajoel/Proyecto-Helm-Joel/blob/main/md/comprobar.md)
 
 ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) [Acceso a la aplicación]()
 ## Reference
