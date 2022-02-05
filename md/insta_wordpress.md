@@ -23,14 +23,9 @@
 ![img](https://github.com/abarcajoel/Proyecto-Helm-Joel/blob/main/img/cm_secret.png)
 
 ## Importante:
-## Para entrar desde el exterior realizamos los siguiente:
+## Para entrar desde el exterior realizamos los siguiente pasos:
 ![img](https://github.com/abarcajoel/Proyecto-Helm-Joel/blob/main/img/nodeport.png)
-## Tomamos: 
-` export SERVICE_IP=$(kubectl get svc --namespace default mi-wordpress --include "{{ range (index .status.loadBalancer.ingress 0) }}{{ . }}{{ end }}")`
-## Esto tomara la ip y exportarla en el servers-ip
-## En nuestro caso como es de prueba y en nuestro nodo local, tomaremos el puerto asignado con la ip de minikube
-`ip:puerto`
-![img](https://github.com/abarcajoel/Proyecto-Helm-Joel/blob/main/img/wordpresss_insta.png)
+
 
 
 
