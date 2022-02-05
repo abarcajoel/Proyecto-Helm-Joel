@@ -12,7 +12,7 @@
 `helm install mi-wordpress bitnami/wordpress 
 --set wordpressUsername=usuario 
   --set wordpressPassword=password 
-  --set mariadb.auth.rootPassword=secretpassword` 
+  --set mariadb.auth.rootPassword=secretpassword --set service.type=NodePort` 
 ### (my-release puede ser cambiado por un nombre que le queráis dar vuestro servicio)
 ## Una vez ejecutado el comando anterior ya tendremos funcionando nuestro wordpress junto con la base de datos.
 ## Pod y deployment
